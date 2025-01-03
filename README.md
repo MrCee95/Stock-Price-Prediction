@@ -17,3 +17,5 @@ To finalize, now it comes the importance of knowing how to interpreter a graph,
 
 Problem statement
  Predict the stock price after a 90day study of Apple , Google, and Samsung’s stock price.
+
+The focus for this project was on stock market prediction with python. By the use of python, training and the computational time has been reduced to a greater extent than others. This project ensures the greatest level of prediction for any stock of a company. My focus was on three technology companies, thus, Apple(AAPL), Google(googl), and Samsung(SSNLF). I studied their stock prices from the first trading day of the year 2010 to 19th of August 2020. I trained my model with the stock prices from 2010 to the day the project was made
